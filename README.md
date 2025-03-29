@@ -2,6 +2,9 @@
 
 A customizable loading screen resource for FiveM servers.
 
+## Preview
+[![Loading Screen Preview](https://streamable.com/o/t1hhlt/thumbnail.jpg)](https://streamable.com/t1hhlt)
+
 ## Features
 - Simple export-based implementation
 - Configurable duration
